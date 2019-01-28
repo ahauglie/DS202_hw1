@@ -1,0 +1,19 @@
+---
+title: "Partner"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+commit 40d8b490383415cf4f4db5e630caadb69338e900
+
+DS202_hw1.0
+
+Yes i can commit it without error
+
+Tip: Make sure you remember the code push and pill files
